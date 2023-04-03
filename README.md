@@ -17,4 +17,4 @@ Estudante de Ciência da Computação, buscando experiências no desenvolvimento
 
 ### Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/ademilton-felipe-nunes-195671a4//)
+[ <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'> ](https://www.linkedin.com/in/ademilton-felipe-nunes-195671a4/)
